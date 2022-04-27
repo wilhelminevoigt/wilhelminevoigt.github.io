@@ -10,7 +10,7 @@ Herbarthstraße 16 b
 
 Tel. 030 30 83 93 97
 
-[<img alt="Wilhelmine Voigt" width="200px" src="/img/foto.jpg" />]
+[<img alt="Wilhelmine Voigt" width="150px" src="/img/foto.jpg" />]
 
 * Wer nicht loslässt, hat keinen Platz für Neues
 
