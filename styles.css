@@ -1,3 +1,4 @@
-body { font-family: 'Alegreya', serif; 
-background-color: #ccc}
-container {margin: 40px; }
+body { 
+  font-family: 'Cardo', serif;
+  background-color: #ccc}
+.container { margin: 40px; }
