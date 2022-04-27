@@ -2,15 +2,19 @@
 
 [<img alt="Mediation" width="150px" src="/img/mediation.png" />]
 
-Wilhelmine Voigt
-
-Herbarthstraße 16 b
-
+<div style="float:left>
+<img alt="Wilhelmine Voigt" width="150px" src="/img/foto.jpg" />]
+                                                             </div>
+                                                             
+                                                             
+<div style="float:left>
+Wilhelmine Voigt</br>
+Herbarthstraße 16 b</br>
+</div>
 14057 Berlin
 
 Tel. 030 30 83 93 97
 
-[<img alt="Wilhelmine Voigt" width="150px" src="/img/foto.jpg" />]
 
 * Wer nicht loslässt, hat keinen Platz für Neues
 
