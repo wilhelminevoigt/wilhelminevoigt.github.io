@@ -1,5 +1,9 @@
 # Aus Alt mach Neu ... durch ... Coaching
 
+![Foto](img/foto.jpg)
+
+![Foto](img/meditation.jpg)
+
 * Wer nicht loslässt, hat keinen Platz für Neues
 
 * alte Glaubenssätze auflösen, eintauchen, durchtauchen,  entspannen, loslassen,  ein Gefühl ist nur ein Gefühl, Verantwortung übernehmen  und ins Handeln kommen ,
@@ -13,7 +17,7 @@
 
 __Ich bin zertifizierter Greator Choach nach der Methode der liegenden Acht.__
 
-![Die liegende Acht](/img/liegendeacht.jpg)
+![Die liegende Acht](img/liegendeacht.png)
 
 [<img alt="Die liegende Acht" width="400px" src="img/liegendeacht.jpg" />]
 
