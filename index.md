@@ -2,7 +2,7 @@
 
 ![Foto](img/foto.jpg)
 
-![Foto](img/meditation.jpg)
+![Foto](img/meditation.png)
 
 * Wer nicht loslässt, hat keinen Platz für Neues
 
