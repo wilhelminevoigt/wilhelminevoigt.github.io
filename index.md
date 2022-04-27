@@ -1,8 +1,8 @@
 # Aus Alt mach Neu ... durch ... Coaching
 
-![Foto](img/foto.jpg)
+![Foto](/img/foto.jpg)
 
-![Foto](img/meditation.png)
+![Foto](/img/meditation.png)
 
 * Wer nicht loslässt, hat keinen Platz für Neues
 
@@ -17,9 +17,9 @@
 
 __Ich bin zertifizierter Greator Choach nach der Methode der liegenden Acht.__
 
-![Die liegende Acht](img/liegendeacht.png)
+![Die liegende Acht](/img/liegendeacht.png)
 
-[<img alt="Die liegende Acht" width="400px" src="img/liegendeacht.jpg" />]
+[<img alt="Die liegende Acht" width="400px" src="/img/liegendeacht.png" />]
 
 Schenk dir eine Stunde Selbstliebe. Was ist jetzt wirklich los?
 
