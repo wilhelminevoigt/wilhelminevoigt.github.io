@@ -1,6 +1,6 @@
 # Aus Alt mach Neu ... durch ... Coaching
 
-[<img alt="Die liegende Acht" width="400px" src="mediation.png" />]
+[<img alt="Mediation" width="150px" src="/img/mediation.png" />]
 
 Wilhelmine Voigt
 
@@ -10,7 +10,7 @@ Herbarthstraße 16 b
 
 Tel. 030 30 83 93 97
 
-[<img alt="Die liegende Acht" width="400px" src="img/foto.jpg" />]
+[<img alt="Wilhelmine Voigt" width="200px" src="/img/foto.jpg" />]
 
 * Wer nicht loslässt, hat keinen Platz für Neues
 
